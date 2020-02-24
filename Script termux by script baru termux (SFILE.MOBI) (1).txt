@@ -6,11 +6,11 @@ copy dan paste kata" berikut di termux kalian
 -pkg install lolcat
 -pip2 install lolcat 
 -pkg install sh 
--git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv4
+-git clone https://github.com/hantu888/Hantu-KACL
 -cd
 -ls
--cd TOOLSINSTALLERv4
+-cd Hantu888-KCL
 -ls
--sh TUANB4DUT..sh
+-python2 Hantu888-KCL.py
 
 trus klian pilih script mana yg ingin kalian install. 
